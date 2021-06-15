@@ -9,3 +9,5 @@ Technologies Used:
 4. HTML5
 5. CSS3
 
+API Resource: Open Wheather
+https://openweathermap.org/api
